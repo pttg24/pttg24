@@ -1,10 +1,13 @@
 ## Welcome 👋
 
-Hi, I'm Pedro Tiago Gomes!
+**Hi, I'm Pedro Tiago Gomes!**
 
 🟩🟡🟥
 
-I'm a software engineer from Portugal, driven by curiosity and a passion for technology. 
+I'm a software engineer from Portugal, driven by curiosity and a passion for technology.
+
+- 🌍 Based in Porto, Portugal
+- 💬 ping me about software development, systems design and architecture, design patterns, best practices and ... ... orienteering!
 
 Explore my GitHub projects and let's build something amazing!
 
