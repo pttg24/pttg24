@@ -1,8 +1,10 @@
-## Hi, I'm Pedro Tiago Gomes 👋
+## Welcome 👋
 
-Welcome to my GitHub profile!
+Hi, I'm Pedro Tiago Gomes!
 
-I'm a software engineer from Portugal 🟩🟡🟥, driven by curiosity and a passion for technology. 
+🟩🟡🟥
+
+I'm a software engineer from Portugal, driven by curiosity and a passion for technology. 
 
 Explore my GitHub projects and let's build something amazing!
 
