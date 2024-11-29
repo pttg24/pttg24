@@ -7,6 +7,7 @@
 I'm a software engineer from Portugal, driven by curiosity and a passion for technology.
 
 - 🌍 Based in Porto, Portugal
+- 🚀 Experienced in cloud architectures and building scalable applications
 - 💬 ping me about software development, systems design and architecture, design patterns, best practices and ... ... orienteering!
 
 Explore my GitHub projects and let's build something amazing!
