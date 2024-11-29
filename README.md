@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi, I'm Pedro Tiago Gomes 👋
+
+Welcome to my GitHub profile!
+
+I'm a software engineer from Portugal 🟩🟡🟥, driven by curiosity and a passion for technology. 
+
+Explore my GitHub projects and let's build something amazing!
 
 <!--
 **pttg24/pttg24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
