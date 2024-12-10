@@ -2,7 +2,7 @@
 
 **Hi, I'm Pedro Tiago Gomes!**
 
-🟩🟡🟥
+🟩🟡🟥 🇵🇹
 
 I'm a software engineer from Portugal, driven by curiosity and a passion for technology.
 
