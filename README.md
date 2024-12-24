@@ -12,8 +12,7 @@ I'm a software engineer from Portugal, driven by curiosity and a passion for tec
 
 Explore my GitHub projects and let's build something amazing!
 
-- Contacts
-- 📨 pedro.gomes.github@gmail.com
+📨 pedro.gomes.github@gmail.com
 
 <!--
 **pttg24/pttg24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
