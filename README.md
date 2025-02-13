@@ -6,6 +6,7 @@
 
 I'm a software engineer from Portugal, driven by curiosity and a passion for technology.
 
+- 💡 .NET | C# | APIs | Software Architecture | Microservices | Cloud | AWS | IaC | Terraform
 - 🌍 Based in Porto, Portugal
 - 🚀 Experienced in cloud architectures and building scalable applications
 - 💬 Ping me about software development, systems design and architecture, design patterns, best practices and ... ... orienteering!
